@@ -39,7 +39,7 @@ Windows blokerer nogle gange filer, der er hentet fra internettet. Højreklik p�
 **før** du pakker den ud, og vælg **Egenskaber**. Sæt flueben i **Fjern blokering** og klik **OK**.
 
 **Power Query kan ikke finde datakilden**
-Hvis du har lagt filerne et andet sted end `C:\Kursusfiler\BI-kurser\PBIT1`, skal du rette stien:
+Hvis du har lagt filerne et andet sted end `C:\Kursusfiler\BI-kurser\PBIT1`, skal du rette stien 
 i Power BI: **Filer > Indstillinger > Indstillinger for datakilde > Skift kilde**
 
 
