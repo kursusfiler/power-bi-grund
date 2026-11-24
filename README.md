@@ -2,7 +2,6 @@
 
 Her finder du eksempel- og opgavefilerne til bogen **Power BI Grundlæggende** fra Innovate.
 
-===
 ---
 
 ## Sådan henter du filerne
@@ -15,7 +14,7 @@ Du behøver ikke at kende GitHub for at hente filerne:
 4. Pak indholdet fra mail-filen ud, fx i mappen `C:\Kursusfiler\BI-kurser\PBIT1`
 
 > **Tip:** Pak filerne ud, før du åbner dem. Hvis du åbner dem direkte inde i zip-filen,
-> kan de ikke gemmes, og forespørgsler i Power Query kan ikke finde deres datakilder.
+> kan de ikke gemmes, og forespørgsler i fx Power Query kan ikke finde deres datakilder.
 ---
 
 ## Indhold
