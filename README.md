@@ -24,6 +24,7 @@ Når du har pakket dem ud, skal din mappestruktur gerne se ud på følgende måd
 C:\Kursusfiler\BI-kurser\PBIT1\
 ├── AWC\
 │   └── Sales Data\
+│   └── Startfiler\
 ├── Diverse\
 ├── Fangstrapport\
 ├── Finansrapport\
