@@ -1,2 +1,1 @@
-# power-bi-grund
-Power BI Grundlæggende
+# Power BI Grundlæggende
